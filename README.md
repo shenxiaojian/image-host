@@ -1,1 +1,1 @@
-# ImageHost
+# image-host
